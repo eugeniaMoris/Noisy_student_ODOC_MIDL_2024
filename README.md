@@ -39,7 +39,37 @@ The public datasets used in the test are listed in the table below.
 | PALM       | 400   |
 | AIROGS     | 18000 |
 
-
+## Folder structure
+```
+Model
+    ├── AIROGS_0
+    │   ├── binary
+    │   └── score
+    ├── CHAKSU_BOSCH
+    │   ├── binary
+    │   └── score
+    ├── CHAKSU_FORUS
+    │   ├── binary
+    │   └── score
+    ├── CHAKSU_REMIDIO
+    │   ├── binary
+    │   └── score
+    ├── DRISHTI
+    │   ├── binary
+    │   └── score
+    ├── ORIGA
+    │   ├── binary
+    │   └── score
+    ├── PALM
+    │   ├── binary
+    │   └── score
+    ├── REFUGE
+    │   ├── binary
+    │   └── score
+    └── RIM_ONE_R3
+        ├── binary
+        └── score
+```
 
 
 ## Citation
